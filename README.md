@@ -60,7 +60,7 @@ This will produce a `.zip` file in your Downloads folder. Move the `.zip` file i
 Run the following command to unzip the zip file (replace the `Export...` with your own file name as needed).
 
 ```shell
-unzip Export-d3adfe0f-3131-4bf3-8987-a52017fc1bae.zip -d Notion_DB
+unzip a19d6c85-4858-4dc0-83f1-19a95e8e9f1d_Export-78f51bab-233c-4901-99f7-738fbe8b2aeb.zip -d Notion_DB
 ```
 
 Run the following command to ingest the data.
